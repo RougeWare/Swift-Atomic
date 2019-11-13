@@ -1,5 +1,5 @@
 import XCTest
-@testable import Swift_Atomic
+@testable import Atomic
 
 final class AtomicTests: XCTestCase {
 
